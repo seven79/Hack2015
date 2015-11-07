@@ -6,3 +6,4 @@ interface.question('What is your name?',function(answer){
 	process.stdin.destroy();
 });
 console.log("hello word");
+console.log("Xin Lu");
